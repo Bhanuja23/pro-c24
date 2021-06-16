@@ -1,5 +1,5 @@
 class Rubber{
-	constructor(x,y,r){
+	constructor(x,y){
 	var options = {
 	'restitution':0.3,
 	   'friction': 5,
